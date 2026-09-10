@@ -25,7 +25,7 @@ const handle = async (context, body) => {
     body: "OK",
     headers: {
       'content-type': 'text/plain'
-    }
+    
   };
 }
 
